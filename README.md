@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thewokebot
 - 👀 I’m interested in Web3
-- 🌱 I’m currently learning Product deisgn
+- 🌱 I’m currently learning ux deisgn
 - 💞️ I’m looking to collaborate on design projects
 - 📫 How to reach me ejimedwin@gmail.com
 
